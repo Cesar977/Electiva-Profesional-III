@@ -1,3 +1,0 @@
-#Salidas 
-print("Hola, mundo!")
-#
